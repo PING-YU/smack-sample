@@ -1,1 +1,6 @@
-aaa
+lib/
+lib/*
+.idea/
+.idea/*
+.DS_Store
+*.iml
